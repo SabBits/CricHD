@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://raw.githubusercontent.com/sabbiriptv/CricHD/main/CricHD.m3u">
+  <a href="https://raw.githubusercontent.com/sabbiriptv/CricHD/main/crichd.m3u">
      <img alt="CricHD Logo" src="https://telegra.ph/file/a4e3524ada8cf9057fe9b.png"/>
   </a> 
 </h1>
