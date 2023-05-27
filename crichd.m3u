@@ -1,6 +1,12 @@
 #EXTM3U
 # API By (https://www.github.com/sabbiriptv)
 
+#EXTINF:-1 group-title="CricHD-SabbirIPTV" tvg-logo="https://yt3.googleusercontent.com/v9dMHUrBHu0zfARHSR-O2yaa74i2a6yAAjZkW-hAxwr-VUxkWWAqqL6-KKTnNawCFhCe-_1h=s900-c-k-c0x00ffffff-no-rj",PTV Sports
+https://crichd.sabbirhasan.trial.rocks/api-v2?id=ptvpk
+#EXTINF:-1 group-title="CricHD-SabbirIPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",A Sports HD
+https://crichd.sabbirhasan.trial.rocks/api-v2?id=asportshd
+#EXTINF:-1 group-title="CricHD-SabbirIPTV" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png",TEN Sports
+https://crichd.sabbirhasan.trial.rocks/api-v2?id=tenspk
 #EXTINF:-1 group-title="CricHD-SabbirIPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png",Astro Cricket HD
 https://crichd.sabbirhasan.trial.rocks/api?id=astrocric
 #EXTINF:-1 group-title="CricHD-SabbirIPTV" tvg-logo="https://media.info/i/lf/0/1672512690/6781.png",ViaplayXtra
